@@ -32,7 +32,7 @@
 @media (min-width: 992px) {
   .title {padding-top:70px;}
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
-  .terminal {width:auto;}
+  .terminal {width:auto;margin-left: 100px}
   .vl{height:0px;}
 }
 
