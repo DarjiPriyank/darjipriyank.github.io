@@ -34,11 +34,12 @@
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {width: auto; margin-left: 0px;}
   .about-me{margin-bottom: 40px}
-  .vl{height:150px;}
+  .vl{height:120px;}
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .skills {height:580px;} /*1rem = 16px*/
   .terminal-text {font-size: 16px}
+  .vl{height:150px;}
 }
