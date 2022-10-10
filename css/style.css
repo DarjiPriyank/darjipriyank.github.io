@@ -10,6 +10,10 @@
     /* text-decoration: underline; */
 }
 
+.img-border {
+  border: 4px solid black;
+}
+
 #nav-bar {
   position:absolute;
   top:0 ;
