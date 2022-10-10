@@ -33,6 +33,7 @@
   .title {padding-top:70px;}
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {width: auto; margin-left: 0px;}
+  #about{height: 400px}
   .vl{height:0px;}
 }
 
