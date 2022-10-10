@@ -34,7 +34,7 @@
   .title {padding-top:70px;}
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {width:auto;}
-  .terminal-text {font-size: 10px}
+  .terminal-text {font-size: 16px}
   .vl{height:0px;}
 }
 
@@ -42,4 +42,5 @@
 @media (min-width: 1200px) {
   .skills {height:580px;} /*1rem = 16px*/
   .terminal {width:auto;}
+  .terminal-text {font-size: 16px}
 }
