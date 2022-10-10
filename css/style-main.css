@@ -22,7 +22,7 @@
 /* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
 @media (min-width: 768px) {
   .particles-js{width:900px}
-  .title {padding-top:70px;}
+  .title {padding-top:0px;}
   .skills {height:auto; width:900px; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {width:380px; margin-left: -100px}
   .terminal-text {font-size: 16px}
