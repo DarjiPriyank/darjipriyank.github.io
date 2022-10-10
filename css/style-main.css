@@ -5,7 +5,7 @@
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {margin-left:-50px;margin-top:100px;width:300px;}
   .terminal-text {font-size: 10px}
-  .img-border {margin-top:12px;}
+  .img-border {margin-top:12px; height:220px; width:280px;}
   .vl{height:0px;}
    /*1rem = 16px*/
 }
