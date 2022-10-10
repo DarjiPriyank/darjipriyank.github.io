@@ -41,6 +41,5 @@
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
   .skills {height:580px;} /*1rem = 16px*/
-  .terminal {width:auto;}
   .terminal-text {font-size: 16px}
 }
