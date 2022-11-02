@@ -26,7 +26,7 @@
   .skills {height:auto; width:auto; padding-bottom: 90px;clip-path: polygon(0 15%, 100% 0, 100% 90%, 0% 100%);}
   .terminal {width:300px;}
   .terminal-text {font-size: 12px}
-  img {height:280px; width:360px;}
+  img {height:360px; width:280px;}
   .vl{height:0px;}
    /*1rem = 16px*/
 }
@@ -40,7 +40,7 @@
   .terminal {width:380px; margin-left: -100px}
   .terminal-text {font-size: 16px}
   .vl{height:200px;}
-  img {height:280px; width:360px;}
+  img {height:360px; width:280px;}
   .img-border {margin-top:-70px; height:360px; width:280px;}
 }
 
