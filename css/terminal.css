@@ -48,7 +48,8 @@
   border-color: #049931;
 }
 .termtitle {
-  margin-left: 35%;
+  align-content: center;
+  margin-left: 40%;
   font-size: 14px;
   line-height: 27px;
   font-family: Sans-serif;
